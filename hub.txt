@@ -1,0 +1,5 @@
+hub bigLolly_track
+shortLabel UCSC tracks as bigLolly format
+longLabel Name up to 80 characters versus shortLabel limited to 17 characters
+genomesFile genomes.txt
+email  elvezia.paraboschi@gmail.com
