@@ -1,6 +1,7 @@
 track  Signals
+type=bigLolly
+lollyField=pValueLog 
+visibility=full
 bigDataUrl https://raw.githubusercontent.com/Elvezia/set_tracks_UCSC/main/lollipop_table.bb
 shortLabel lollipop table
 longLabel This track shows lollipops
-type bigBed
-visibility dense
